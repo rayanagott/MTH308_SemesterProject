@@ -24,15 +24,22 @@
 \subsection{Explanation}
 Colley's method is used to rank sports teams based on their win-loss ratio.
 The method was created by Wesley Colley to handle situations where teams may 
-not have played each other an equal number of times. ]
+not have played each other an equal number of times. Colley's method takes advantage
+of Laplace's Rule of Succession.
+\begin{center}
+\includegraphics[width=0.8\textwidth]{colleysmethod.png}
+\end{center}
 
 \subsection{Laplace's Rule of Succession}
 Laplace's Rule of Succession provides a formula to relate observed 
 instances to unobserved ones, formally reffered to as "enumerative induction." 
-The formula for probability is (k+1)/(n+2). Where 'k' is the number of times an event has occured, and 'n' is the total number of trials. 
-In sports ranking, Laplace's rule provides a more accurate probabilty result for small data sets by accounting for future outcomes. 
+The formula for probability is (k+1)/(n+2). Where 'k' is the number of times an 
+event has occured, and 'n' is the total number of trials. 
+In sports ranking, Laplace's rule provides a more accurate probabilty result for small data
+ sets by accounting for future outcomes. 
 This is acheieved through the use of biases, +1 and +2. 
-The bias also eases the jumps in ranking when the observed data, number of games played, is scarce.
+The bias also eases the jumps in ranking when the observed data, number of games played, is
+ scarce.
 
 
 \subsection{Example Calculation}
@@ -40,7 +47,8 @@ The bias also eases the jumps in ranking when the observed data, number of games
 
 \section{Part 2: Massey Method}
 \subsection{Introduction}
-[Introduce the Massey method and its importance.]
+Massey's method includes teams' differences in points, and assumes transitivity 
+will hold true. 
 
 \subsection{Methodology}
 [Explain the approach and relevant equations.]

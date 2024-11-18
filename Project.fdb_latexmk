@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1731538856.89903 "c:/Users/rayan/OneDrive/Documents/GitHub/MTH308_SemesterProject/Project.tex" "Project.pdf" "Project" 1731538857.62593 0
+["pdflatex"] 1731969866.69681 "c:/Users/rayan/OneDrive/Documents/GitHub/MTH308_SemesterProject/Project.tex" "Project.pdf" "Project" 1731969867.42261 0
   "C:/Users/rayan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731535857 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/rayan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1731536073 11986955 0da2b604083fc9ec29af48b95250daf9 ""
   "C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -68,10 +68,11 @@
   "C:/Users/rayan/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/rayan/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/rayan/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Project.aux" 1731538857 2274 ec5f1afbb3bb8d4ab9385aa2b2727a45 "pdflatex"
-  "Project.out" 1731538857 2676 5c0f64d87d384222472a29ce7fe91b16 "pdflatex"
-  "Project.tex" 1731538856 2591 73eb0168c8a48a1886dffb3d4ffe5886 ""
-  "c:/Users/rayan/OneDrive/Documents/GitHub/MTH308_SemesterProject/Project.tex" 1731538856 2591 73eb0168c8a48a1886dffb3d4ffe5886 ""
+  "Project.aux" 1731969867 2274 be8ad78928897621435c7ac798321b10 "pdflatex"
+  "Project.out" 1731969867 2676 5c0f64d87d384222472a29ce7fe91b16 "pdflatex"
+  "Project.tex" 1731969866 2798 d03d88e8ba22d17a4c9f53670c6bcff4 ""
+  "c:/Users/rayan/OneDrive/Documents/GitHub/MTH308_SemesterProject/Project.tex" 1731969866 2798 d03d88e8ba22d17a4c9f53670c6bcff4 ""
+  "colleysmethod.png" 1731969316 66797 06b24f258c8794bd11c3a1aceff4ecf3 ""
   (generated)
   "Project.aux"
   "Project.log"
