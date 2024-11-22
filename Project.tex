@@ -5,6 +5,7 @@
 \usepackage{graphicx}
 \usepackage{hyperref}
 \usepackage{geometry}
+\usepackage{amsmath}
 \geometry{margin=1in}
 
 \title{Linear Algebra and Differential Equations Project 1}
@@ -76,8 +77,45 @@ will hold true.
 \subsection{Application and Analysis}
 [Describe your research and analysis of the cutting-edge approach.]
 
-\subsection{Comparison with Traditional Methods}
-[Compare these new methods with Colley and Massey.]
+\subsection{Bayesian Analysis of Formula One race Results}
+Unlike football and basketball, Formula One racing has an additional factor: the car.
+Each Formula One team has its own unique car, because of this, in what way can we compare
+driver skill? The Bayesian Analysis mathematics proposed by Kesteren and Bergkamp uses driver data 
+from 2014-2021 and the attributes are as follows: driver id, constructor id, season, race number, 
+finishing position, and status. Additional race information included weather conditions (ie wet 
+or dry) and circuit type (street or permanent).
+
+\subsubsection{Diving into the Math}
+For each race, r, we assume there is a set of competitors, C. The outcome is a vector which 
+represents a ranking of competitors, y. The ranking follows a Rank-Ordered Logit model where 
+finish position (ranking) is modeled as a function of driver skill, constructor advantage, and 
+yearly variations in performance.
+
+Rank-Ordered Logit:
+\[
+\mathbf{y}_r \sim \text{RankOrderedLogit}(\boldsymbol{\theta}_r)
+\]
+where \(\boldsymbol{\theta}_r\) represents the latent abilities of competitors in race \(r\).
+
+Latent Ability Decomposition: 
+the ability of a competitor is decomposed into the following components
+\[
+\theta_c = \theta_d + \theta_{ds} + \theta_t + \theta_{ts}
+\]
+\[
+\begin{aligned}
+&\theta_d \text{: Long-term driver skill,} \\
+&\theta_{ds} \text{: Seasonal deviation of driver skill,} \\
+&\theta_t \text{: Long-term constructor advantage,} \\
+&\theta_{ts} \text{: Seasonal deviation of constructor advantage.}
+\end{aligned}
+\]
+
+
+
+\begin{center}
+    \includegraphics[width=0.8\textwidth]{driver skill.jpg}
+    \end{center}
 
 \newpage
 \section*{References}
