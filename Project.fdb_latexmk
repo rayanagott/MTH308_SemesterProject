@@ -1,7 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1732241551.03338 "c:/Users/rayan/OneDrive/Documents/GitHub/MTH308_SemesterProject/Project.tex" "Project.pdf" "Project" 1732241551.84392 0
+["pdflatex"] 1733196261.2077 "c:/Users/rayan/OneDrive/Documents/GitHub/MTH308_SemesterProject/Project.tex" "Project.pdf" "Project" 1733196262.05869 2
   "C:/Users/rayan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731535857 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/rayan/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1733195322 14064 f4800f3f2ed078c6924ff89fb6001d3f ""
   "C:/Users/rayan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1731536073 11986955 0da2b604083fc9ec29af48b95250daf9 ""
+  "C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993062508 1444 95ffe0f19b974d50849790c8225c7ef7 ""
   "C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1233951848 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
   "C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm" 1233951848 1120 200be8b775682cdf80acad4be5ef57e4 ""
   "C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -87,15 +89,18 @@
   "C:/Users/rayan/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/rayan/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/rayan/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Project.aux" 1732241551 2421 54338137d7b8f0698166eb44504ee526 "pdflatex"
-  "Project.out" 1732241551 2912 f7902ad05314c06c3c66089a163d4ec5 "pdflatex"
-  "Project.tex" 1732241550 4405 7cfe36eb9a0f18838072bdf4b142fb42 ""
-  "c:/Users/rayan/OneDrive/Documents/GitHub/MTH308_SemesterProject/Project.tex" 1732241550 4405 7cfe36eb9a0f18838072bdf4b142fb42 ""
+  "Project.aux" 1733196261 1936 853ee28077a25f873d0fecacd2b9775a "pdflatex"
+  "Project.out" 1733196261 2392 f7fbad9db9e9f191fad82719c5a0aa95 "pdflatex"
+  "Project.tex" 1733196259 5526 f76fa0cb9c040aff715625f741ba0656 ""
+  "Project.toc" 1733196261 1200 d3a05683d73fbc3812c9351af5681019 "pdflatex"
+  "c:/Users/rayan/OneDrive/Documents/GitHub/MTH308_SemesterProject/Project.tex" 1733196259 5526 f76fa0cb9c040aff715625f741ba0656 ""
   "colleysmethod.png" 1731969316 66797 06b24f258c8794bd11c3a1aceff4ecf3 ""
   "driver skill.jpg" 1732240893 161011 0b19717ca02f854755345140bd076ca6 ""
+  "least-square-method-1-1650276785.png" 1733195817 20866 c813a47dd0a9e013d1a9a2019e959978 ""
   (generated)
   "Project.aux"
   "Project.log"
   "Project.out"
   "Project.pdf"
+  "Project.toc"
   (rewritten before read)

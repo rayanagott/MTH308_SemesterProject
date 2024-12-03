@@ -15,11 +15,8 @@
 \begin{document}
 
 \maketitle
-%\tableofcontents
+\tableofcontents
 \newpage
-
-\section*{Abstract}
-[Write a brief summary of your project here.]
 
 \section{Part 1: Colley Method}
 \subsection{Explanation}
@@ -43,22 +40,32 @@ The bias also eases the jumps in ranking when the observed data, number of games
  scarce.
 
 
-\subsection{Example Calculation}
-[Provide a sample calculation to illustrate the method.]
-
 \section{Part 2: Massey Method}
 \subsection{Introduction}
 Massey's method includes teams' differences in points, and assumes transitivity 
-will hold true. 
+will hold true. The data involved includes a final score differential. And 
+a matrix is constructed using the following: 
+\newpage
+\[
+M \cdot r = p
+\]
+where:
+\begin{itemize}
+    \item \(\mathbf{M}\): Massey matrix (based on the matchups).
+    \item \(\mathbf{r}\): Vector of team ratings (to be solved for).
+    \item \(\mathbf{p}\): Vector of point differentials.
+\end{itemize}
 
-\subsection{Methodology}
-[Explain the approach and relevant equations.]
 
-\subsection{Example Calculation}
-[Show an example using the method.]
+\subsection{Method of Least Squares}
+The method of least squares is used to find a line of best fit for a set of data. 
+The goal is to minimize the distance, or error, between the line of best fit 
+and the points of data.
 
-\subsection{Results}
-[Discuss your findings from applying the Massey method.]
+\begin{center}
+    \includegraphics[width=0.8\textwidth]{least-square-method-1-1650276785.png}
+    \end{center}
+
 
 \section{Part 3: Application to Real Data}
 \subsection{Data Collection}
@@ -72,12 +79,14 @@ will hold true.
 
 \section{Part 4: Cutting Edge}
 \subsection{Overview of New Methods}
-[Summarize any novel or emerging methods in ranking.]
+Additional methods to sport rankings include the Elo Rating System, the Bradley-Terry Model,
+and Bayesian Analysis. Each method listed has its own unique application. The Elo Rating System 
+is primaraily used for chess rankings, but it can be applied to any two player game. 
+The Bradley-Terry Method can be used for various team sports and can even be applied to 
+election outcomes, among other things. Lastly, the Bayesian Analysis approach is used 
+to calculate rankings in motorsport racing.
 
-\subsection{Application and Analysis}
-[Describe your research and analysis of the cutting-edge approach.]
-
-\subsection{Bayesian Analysis of Formula One race Results}
+\subsection{Bayesian Analysis of Formula One Race Results}
 Unlike football and basketball, Formula One racing has an additional factor: the car.
 Each Formula One team has its own unique car, because of this, in what way can we compare
 driver skill? The Bayesian Analysis mathematics proposed by Kesteren and Bergkamp uses driver data 
@@ -119,6 +128,20 @@ the ability of a competitor is decomposed into the following components
 
 \newpage
 \section*{References}
-[Include your references here in the format required by your institution.]
+\begin{flushleft}
+The Elo System:
 
+https://compass.blogs.bristol.ac.uk/2020/12/17/the-elo-rating-system-from-chess-to-education/
+
+Bayesian Analysis:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10660124/
+
+Laplace's Rule of Sucession:
+
+https://jonathanweisberg.org/post/inductive-logic-2/
+
+Method of Least Squares:
+https://www.investopedia.com/terms/l/least-squares-method.asp#:~:text=The%20least%20squares%20method%20is%20a%20statistical%20procedure%20to%20find,the%20behavior%20of%20dependent%20variables.
+\end{flushleft}
 \end{document}
