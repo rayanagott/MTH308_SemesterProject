@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.13)  3 DEC 2024 08:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.13)  4 DEC 2024 18:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -284,6 +284,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 15.
+ (Project.out) (Project.out)
 \@outlinefile=\write3
 \openout3 = `Project.out'.
 
@@ -329,8 +330,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
  (C:\Users\rayan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-No file Project.toc.
+) (Project.toc)
 \tf@toc=\write4
 \openout4 = `Project.toc'.
 
@@ -339,7 +339,7 @@ No file Project.toc.
 [1
 
 {C:/Users/rayan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<colleysmethod.png, id=12, 603.25375pt x 260.975pt>
+<colleysmethod.png, id=77, 603.25375pt x 260.975pt>
 File: colleysmethod.png Graphic file (type png)
 <use colleysmethod.png>
 Package pdftex.def Info: colleysmethod.png  used on input line 28.
@@ -352,7 +352,7 @@ Overfull \hbox (22.23848pt too wide) in paragraph at lines 32--41
 
 
 [2 <./colleysmethod.png>]
-<least-square-method-1-1650276785.png, id=24, 502.2765pt x 394.5942pt>
+<least-square-method-1-1650276785.png, id=84, 502.2765pt x 394.5942pt>
 File: least-square-method-1-1650276785.png Graphic file (type png)
 <use least-square-method-1-1650276785.png>
 Package pdftex.def Info: least-square-method-1-1650276785.png  used on input line 66.
@@ -362,7 +362,7 @@ Package pdftex.def Info: least-square-method-1-1650276785.png  used on input lin
 [3 <./least-square-method-1-1650276785.png>]
 
 [4]
-<driver skill.jpg, id=47, 172.2435pt x 171.7617pt>
+<driver skill.jpg, id=99, 172.2435pt x 171.7617pt>
 File: driver skill.jpg Graphic file (type jpg)
 <use driver skill.jpg>
 Package pdftex.def Info: driver skill.jpg  used on input line 135.
@@ -370,43 +370,27 @@ Package pdftex.def Info: driver skill.jpg  used on input line 135.
 
 
 [5 <./driver skill.jpg>]
-c:/Users/rayan/OneDrive/Documents/GitHub/MTH308_SemesterProject/Project.tex:154: You can't use `macro parameter character #' in horizontal mode.
-l.154 ...dia.com/terms/l/least-squares-method.asp#
-                                                  :~:text=The%20least%20squa...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
 
 [6] (Project.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
-
-
-Package rerunfilecheck Warning: File `Project.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Project.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  1B1F3067D88B09AD037C3B485963972B;2317.
+Package rerunfilecheck Info: File `Project.out' has not changed.
+(rerunfilecheck)             Checksum: 1B1F3067D88B09AD037C3B485963972B;2317.
  ) 
 Here is how much of TeX's memory you used:
- 10210 strings out of 473681
- 156968 string characters out of 5719194
- 555260 words of memory out of 5000000
- 33157 multiletter control sequences out of 15000+600000
+ 10232 strings out of 473681
+ 157469 string characters out of 5719194
+ 555359 words of memory out of 5000000
+ 33173 multiletter control sequences out of 15000+600000
  569631 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,318b,447s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,412b,447s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\rayan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Project.pdf (6 pages, 328957 bytes).
+Output written on Project.pdf (6 pages, 336644 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
+ 149 PDF objects out of 1000 (max. 8388607)
  22 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
