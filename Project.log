@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.13)  2 DEC 2024 21:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.13)  3 DEC 2024 08:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -243,8 +243,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count297
 \l__pdf_internal_box=\box54
-)
-No file Project.aux.
+) (Project.aux)
 \openout1 = `Project.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
@@ -265,7 +264,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
-(C:\Users\rayan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Users\rayan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count298
 \scratchdimen=\dimen165
@@ -361,18 +360,18 @@ Package pdftex.def Info: least-square-method-1-1650276785.png  used on input lin
 
 
 [3 <./least-square-method-1-1650276785.png>]
-<driver skill.jpg, id=37, 172.2435pt x 171.7617pt>
+
+[4]
+<driver skill.jpg, id=47, 172.2435pt x 171.7617pt>
 File: driver skill.jpg Graphic file (type jpg)
 <use driver skill.jpg>
-Package pdftex.def Info: driver skill.jpg  used on input line 126.
+Package pdftex.def Info: driver skill.jpg  used on input line 135.
 (pdftex.def)             Requested size: 375.80544pt x 374.80524pt.
 
 
-[4]
-
 [5 <./driver skill.jpg>]
-c:/Users/rayan/OneDrive/Documents/GitHub/MTH308_SemesterProject/Project.tex:145: You can't use `macro parameter character #' in horizontal mode.
-l.145 ...dia.com/terms/l/least-squares-method.asp#
+c:/Users/rayan/OneDrive/Documents/GitHub/MTH308_SemesterProject/Project.tex:154: You can't use `macro parameter character #' in horizontal mode.
+l.154 ...dia.com/terms/l/least-squares-method.asp#
                                                   :~:text=The%20least%20squa...
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -394,20 +393,20 @@ Package rerunfilecheck Warning: File `Project.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `Project.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  F7FBAD9DB9E9F191FAD82719C5A0AA95;2392.
+(rerunfilecheck)             After:  1B1F3067D88B09AD037C3B485963972B;2317.
  ) 
 Here is how much of TeX's memory you used:
- 10208 strings out of 473681
- 156872 string characters out of 5719194
- 555269 words of memory out of 5000000
- 33156 multiletter control sequences out of 15000+600000
+ 10210 strings out of 473681
+ 156968 string characters out of 5719194
+ 555260 words of memory out of 5000000
+ 33157 multiletter control sequences out of 15000+600000
  569631 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,318b,510s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,318b,447s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\rayan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/rayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Project.pdf (6 pages, 327988 bytes).
+Output written on Project.pdf (6 pages, 328957 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
+ 96 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

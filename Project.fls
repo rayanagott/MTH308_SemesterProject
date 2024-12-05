@@ -102,6 +102,9 @@ INPUT C:\Users\rayan\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.c
 INPUT C:\Users\rayan\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\rayan\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\rayan\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\Project.aux
+INPUT .\Project.aux
+INPUT Project.aux
 OUTPUT Project.aux
 INPUT C:\Users\rayan\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\rayan\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii

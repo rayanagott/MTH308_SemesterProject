@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1733196261.2077 "c:/Users/rayan/OneDrive/Documents/GitHub/MTH308_SemesterProject/Project.tex" "Project.pdf" "Project" 1733196262.05869 2
+["pdflatex"] 1733237991.19229 "c:/Users/rayan/OneDrive/Documents/GitHub/MTH308_SemesterProject/Project.tex" "Project.pdf" "Project" 1733237992.12554 2
   "C:/Users/rayan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731535857 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/rayan/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1733195322 14064 f4800f3f2ed078c6924ff89fb6001d3f ""
   "C:/Users/rayan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1731536073 11986955 0da2b604083fc9ec29af48b95250daf9 ""
@@ -89,11 +89,11 @@
   "C:/Users/rayan/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/rayan/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/rayan/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Project.aux" 1733196261 1936 853ee28077a25f873d0fecacd2b9775a "pdflatex"
-  "Project.out" 1733196261 2392 f7fbad9db9e9f191fad82719c5a0aa95 "pdflatex"
-  "Project.tex" 1733196259 5526 f76fa0cb9c040aff715625f741ba0656 ""
-  "Project.toc" 1733196261 1200 d3a05683d73fbc3812c9351af5681019 "pdflatex"
-  "c:/Users/rayan/OneDrive/Documents/GitHub/MTH308_SemesterProject/Project.tex" 1733196259 5526 f76fa0cb9c040aff715625f741ba0656 ""
+  "Project.aux" 1733237991 1825 a940af5162d5b16d8937c1750d2ee850 "pdflatex"
+  "Project.out" 1733237991 2317 1b1f3067d88b09ad037c3b485963972b "pdflatex"
+  "Project.tex" 1733237989 6192 22cf08f13b7752991b9e11a5005a1167 ""
+  "Project.toc" 1733237991 1130 a7c6e3e9adec66bd291fd9f5c667b13d "pdflatex"
+  "c:/Users/rayan/OneDrive/Documents/GitHub/MTH308_SemesterProject/Project.tex" 1733237989 6192 22cf08f13b7752991b9e11a5005a1167 ""
   "colleysmethod.png" 1731969316 66797 06b24f258c8794bd11c3a1aceff4ecf3 ""
   "driver skill.jpg" 1732240893 161011 0b19717ca02f854755345140bd076ca6 ""
   "least-square-method-1-1650276785.png" 1733195817 20866 c813a47dd0a9e013d1a9a2019e959978 ""
